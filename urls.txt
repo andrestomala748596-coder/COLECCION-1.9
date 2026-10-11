@@ -27342,5 +27342,27 @@
       "https://videa.hu/videok/film-animacio/gigila-leyenda-de-la-llorona-llYNQXf6s5CKDaB8"
     ],
     "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 431580,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Un amigo abominable",
+    "FECHA": "2019-09-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/ja47aCTrT46f98ekoRHieDLqaE9.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/jXk3ZMq7n4ugOqKYq0CtMn3gia8.jpg",
+    "GENERO": "Familia, Animación, Aventura, Comedia, Fantasía",
+    "RATING": 7.5,
+    "DURACION": 97,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Tres adolescentes deben ayudar a un Yeti a volver con su familia mientras evitan a un hombre rico y a un zoólogo que lo quieren para sus propias necesidades.",
+    "ACTORES": "  • Chloe Bennet (Yi (voice))\n  • Albert Tsai (Peng (voice))\n  • Suzy Eddie Izzard (Burnish (voice))\n  • Tenzing Norgay Trainor (Jin (voice))\n  • Joseph Izzo (Everest (voice))",
+    "DIRECTOR": "Jill Culton",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/gigiun-amigo-abominable-2019-latino-y8RnfJOEBa7SJkCw"
+    ],
+    "METODO": "MANUAL"
   }
 ]
