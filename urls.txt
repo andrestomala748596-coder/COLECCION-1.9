@@ -28024,5 +28024,49 @@
       "https://ok.ru/video/15635260508910"
     ],
     "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1204680,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Coyote vs. Acme",
+    "FECHA": "2026-08-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+    "GENERO": "Comedia, Aventura, Familia",
+    "RATING": 7.5,
+    "DURACION": 103,
+    "FRASE_PROMOCIONAL": "La película que ACME no quiere que veas.",
+    "SINOPSIS": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation.",
+    "ACTORES": "  • Will Forte (Kevin Avery)\n  • Lana Condor (Paige Avery)\n  • John Cena (Buddy Crane)\n  • Tone Bell (Sal Maltese)\n  • Martha Kelly (Dottie Jones)",
+    "DIRECTOR": "Dave Green",
+    "TRAILER": "https://youtube.com/watch?v=gFAw7jxJOsY",
+    "URLS": [
+      "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Coyote%20vs.%20Acme%20(2026)LAT%20(1).mkv"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 1204680,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Coyote vs. Acme",
+    "FECHA": "2026-08-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+    "GENERO": "Comedia, Aventura, Familia",
+    "RATING": 7.5,
+    "DURACION": 103,
+    "FRASE_PROMOCIONAL": "La película que ACME no quiere que veas.",
+    "SINOPSIS": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation.",
+    "ACTORES": "  • Will Forte (Kevin Avery)\n  • Lana Condor (Paige Avery)\n  • John Cena (Buddy Crane)\n  • Tone Bell (Sal Maltese)\n  • Martha Kelly (Dottie Jones)",
+    "DIRECTOR": "Dave Green",
+    "TRAILER": "https://youtube.com/watch?v=gFAw7jxJOsY",
+    "URLS": [
+      "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Coyote%20vs.%20Acme%20(2026)LAT%20(1).mkv"
+    ],
+    "METODO": "BUDTV"
   }
 ]
