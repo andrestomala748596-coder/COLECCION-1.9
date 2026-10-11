@@ -27958,5 +27958,49 @@
       "https://videa.hu/videok/film-animacio/lightyear-2022-latino-MFGUaqANDIRnj9Wu"
     ],
     "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 980431,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Avatar: Aang, El último Maestro Aire",
+    "FECHA": "2026-07-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/iMsORWhD8MawINagL6kvpDVAtS.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+    "GENERO": "Animación, Aventura, Fantasía, Acción",
+    "RATING": 9.1,
+    "DURACION": 99,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Avatar Aang, el último Maestro Aire del mundo, se entera de un antiguo poder que podría salvar a su cultura de la extinción. Con la ayuda de sus amigos, se embarca en una búsqueda global para encontrarlo antes de que caiga en las manos equivocadas y amenace con deshacer la paz por la que lo sacrificaron todo.",
+    "ACTORES": "  • 에릭 남 (Aang (voice))\n  • Dave Bautista (Tagah (voice))\n  • Jessica Matten (Katara (voice))\n  • Román Zaragoza (Sokka (voice))\n  • Steven Yeun (Zuko (voice))",
+    "DIRECTOR": "Lauren Montgomery",
+    "TRAILER": "https://youtube.com/watch?v=8_fi8uJZP3c",
+    "URLS": [
+      "https://ok.ru/video/15103519689454"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 1322562,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Mononoke III: La Maldicion De La Serpiente",
+    "FECHA": "2026-05-29",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/4r7YZPK02bz1jqBicFxVAG89yMG.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/5bMDrznr5P9GcClJF0OeE4NxZn9.jpg",
+    "GENERO": "Animación, Fantasía, Misterio",
+    "RATING": 9.1,
+    "DURACION": 88,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Tras una tragedia dentro del Ōoku, las retorcidas pasiones humanas y los rencores más enquistados dan origen al oponente más temible que jamás haya tenido el boticario.",
+    "ACTORES": "  • 神谷浩史 (Medicine Seller (voice))\n  • 種﨑敦美 (Sachiko (voice))\n  • 入野自由 (Tenshi (voice))\n  • 津田健次郎 (Hokuto Mizorogi (voice))\n  • 榊原良子 (Suikoin (voice))",
+    "DIRECTOR": "中村健治",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://ok.ru/video/15806908795630"
+    ],
+    "METODO": "MANUAL"
   }
 ]
