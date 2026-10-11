@@ -1,0 +1,170 @@
+name: Organizar catálogo de películas
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'urls.txt'
+      - 'organizar_catalogo_sin_extractor.py'
+      - '.github/workflows/actualizar.yml'
+
+  schedule:
+    - cron: '0 */6 * * *'
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: organizar-catalogo-main
+  cancel-in-progress: false
+
+jobs:
+  organizar-catalogo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Verificar archivos necesarios
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [ ! -f "urls.txt" ]; then
+            echo "ERROR: urls.txt no encontrado"
+            exit 1
+          fi
+
+          if [ ! -f "organizar_catalogo_sin_extractor.py" ]; then
+            echo "ERROR: falta organizar_catalogo_sin_extractor.py"
+            exit 1
+          fi
+
+          echo "Archivos necesarios encontrados"
+
+      - name: Guardar copia de seguridad de urls.txt
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp urls.txt "$RUNNER_TEMP/urls.txt.backup"
+          sha256sum urls.txt
+
+      - name: Organizar películas y categorías
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -u organizar_catalogo_sin_extractor.py
+        env:
+          PYTHONUNBUFFERED: "1"
+
+      - name: Verificar que urls.txt permanece intacto
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if ! cmp -s urls.txt "$RUNNER_TEMP/urls.txt.backup"; then
+            echo "ERROR: urls.txt fue modificado"
+            exit 1
+          fi
+
+          echo "urls.txt permanece intacto"
+
+      - name: Validar catálogo
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          category_file = Path("category_list.json")
+          movies_dir = Path("peliculas")
+
+          if not category_file.is_file():
+              raise SystemExit("ERROR: falta category_list.json")
+
+          categories = json.loads(
+              category_file.read_text(encoding="utf-8")
+          )
+
+          if not isinstance(categories, list) or not categories:
+              raise SystemExit("ERROR: lista de categorías inválida o vacía")
+
+          if len(categories) != len(set(categories)):
+              raise SystemExit("ERROR: hay categorías duplicadas")
+
+          if not movies_dir.is_dir():
+              raise SystemExit("ERROR: falta la carpeta peliculas")
+
+          expected_files = {f"{category}.json" for category in categories}
+          actual_files = {path.name for path in movies_dir.glob("*.json")}
+
+          if expected_files != actual_files:
+              raise SystemExit(
+                  f"ERROR: archivos de categorías no coinciden. "
+                  f"Faltan: {expected_files - actual_files}. "
+                  f"Sobran: {actual_files - expected_files}."
+              )
+
+          total = 0
+
+          for category in categories:
+              path = movies_dir / f"{category}.json"
+
+              try:
+                  data = json.loads(path.read_text(encoding="utf-8"))
+              except json.JSONDecodeError as error:
+                  raise SystemExit(
+                      f"ERROR: JSON inválido en {path}: {error}"
+                  )
+
+              if not isinstance(data, list):
+                  raise SystemExit(
+                      f"ERROR: {path} debe contener una lista"
+                  )
+
+              for movie in data:
+                  if not isinstance(movie, dict):
+                      raise SystemExit(
+                          f"ERROR: registro inválido en {path}"
+                      )
+
+                  if movie.get("CATEGORIA") != category:
+                      raise SystemExit(
+                          f"ERROR: categoría incorrecta en {path}. "
+                          f"Valor encontrado: {movie.get('CATEGORIA')!r}"
+                      )
+
+                  total += 1
+
+          print(
+              f"CATÁLOGO VÁLIDO: {total} películas "
+              f"en {len(categories)} categorías."
+          )
+          PY
+
+      - name: Guardar cambios del catálogo
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A -- peliculas/ category_list.json
+
+          if git diff --cached --quiet; then
+            echo "El catálogo no tiene cambios. No se crea commit."
+            exit 0
+          fi
+
+          git commit -m "Organizar catálogo de películas"
+          git push origin HEAD:main
