@@ -28002,5 +28002,27 @@
       "https://ok.ru/video/15806908795630"
     ],
     "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 43625,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Heidi",
+    "FECHA": "2005-08-19",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/p2VZt4f1u2qsn2I62I4arTdlgQk.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/1K0pL5vkGXHNz4KSgZzjkifQPkC.jpg",
+    "GENERO": "Drama, Familia",
+    "RATING": 7.789,
+    "DURACION": 97,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "  • Emma Bolger (Heidi)\n  • Max von Sydow (Uncle Alp)\n  • Pauline McLynn (Aunt Detie)\n  • Geraldine Chaplin (Rottenmeier)\n  • Sam Friend (Peter)",
+    "DIRECTOR": "Paul Marcus",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://ok.ru/video/15635260508910"
+    ],
+    "METODO": "MANUAL"
   }
 ]
