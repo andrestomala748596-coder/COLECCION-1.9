@@ -28178,5 +28178,27 @@
       "https://69t.btv.mx/69T/NENA/MOV/LAT2026/Spidey%20and%20the%20Avengers%20Halloween%20Team%20Up!.mp4"
     ],
     "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 666154,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Kayara: La Princesa Inca",
+    "FECHA": "2025-01-02",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/A1DSh29atQjLZCVCddMyGw1mbM8.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/et4FH70ubabgo6PJlPnFPrAGVuc.jpg",
+    "GENERO": "Animación, Aventura, Familia",
+    "RATING": 7.6,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Una joven inca sueña con unirse al grupo de mensajeros Chasqui, compuesto exclusivamente por hombres. Desafía las tradiciones y las normas de género para perseguir su ambición contra viento y marea.",
+    "ACTORES": "  • Naomi Serrano (Kayara (voice))\n  • Nate Begle (Martin (voice))\n  • Charles Gonzales (Paullu)\n  • Arthur Romero (Villa Oma)\n  • Edgar Garcia (Tunupu)",
+    "DIRECTOR": "César Zelada",
+    "TRAILER": "https://youtube.com/watch?v=otw6tpMtVGs",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2025/Ver%20Kayara1080L4T%20mp4.mp4"
+    ],
+    "METODO": "BUDTV"
   }
 ]
