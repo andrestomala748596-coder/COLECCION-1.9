@@ -28156,5 +28156,27 @@
       "https://files.eintim.me/content/cdn/iZIMXQbMtqgf.mp4"
     ],
     "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1750432,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Spidey y Los Vengadores: ¡Superequipo Halloween!",
+    "FECHA": "2026-09-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/nLhj8GhpL7njlalnIW4DIZyXyaa.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/5Ur40GWrgeLePW6RAYZZoS5BRLk.jpg",
+    "GENERO": "Animación, Aventura, Fantasía, Familia",
+    "RATING": 7.1,
+    "DURACION": 26,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "",
+    "ACTORES": "  • Nick Fisher (Peter / Spider-Man (Spidey) / Kid at Party (voice))\n  • Este Haim (Hallows Eve (voice))\n  • Patrick Stump (Jack O’Lantern / Party Goer (voice))\n  • Lincoln Bonilla (Tony / Iron Man (voice))\n  • Armen Taylor (Hulk / Levitating Ghost Decoration (voice))",
+    "DIRECTOR": "Darren Bachynski",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://69t.btv.mx/69T/NENA/MOV/LAT2026/Spidey%20and%20the%20Avengers%20Halloween%20Team%20Up!.mp4"
+    ],
+    "METODO": "BUDTV"
   }
 ]
