@@ -28420,5 +28420,49 @@
       "https://1a-1791.com/video/s8/2/s/k/6/B/sk6Bv.aaa.mp4"
     ],
     "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 10501,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "tokyvideo.com",
+    "TITULO": "El camino hacia El Dorado",
+    "FECHA": "2000-03-31",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/9hHCyknihY5M4S4ljxveBRZA9Sj.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/ciM5RFsBoWEj0tbwJy42Hr76iRd.jpg",
+    "GENERO": "Familia, Aventura, Animación, Comedia, Fantasía",
+    "RATING": 7.305,
+    "DURACION": 89,
+    "FRASE_PROMOCIONAL": "Vinieron por el oro. Se quedaron por la aventura.",
+    "SINOPSIS": "Dos estafadores consiguen un mapa que lleva a la legendaria ciudad del oro, El Dorado.",
+    "ACTORES": "  • Kenneth Branagh (Miguel  (voice))\n  • Kevin Kline (Tulio (voice))\n  • Rosie Perez (Chel (voice))\n  • Armand Assante (Tzekel-Kan (voice))\n  • Edward James Olmos (Chief (voice))",
+    "DIRECTOR": "Bibo Bergeron",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://www.tokyvideo.com/es/video/el-camino-hacia-el-dorado-4"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 9928,
+    "ID_VIDEO": null,
+    "PLATAFORMA": null,
+    "TITULO": "Robots",
+    "FECHA": "2005-03-10",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/e5GTdGwZAvaPgO8kOEsGltzgIUX.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/8p4gCdDT55PMY3UMDvo6ybzMrai.jpg",
+    "GENERO": "Animación, Comedia, Familia, Ciencia ficción",
+    "RATING": 6.5,
+    "DURACION": 92,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Rodney Hojalata es un joven y genial inventor que sueña con hacer del mundo un lugar mejor. Cappy es una atractiva ejecutiva robot de la que Rodney se queda prendado al instante. Ratchet es el tirano corporativo; y luego está el Gran Soldador, un magistral inventor que ha perdido el norte … hasta que tropieza con el irreprimible soñador de Rodney. Además está un grupo de robots inadaptados conocidos como los Oxidados liderados por Manivela.",
+    "ACTORES": "  • Ewan McGregor (Rodney Copperbottom (voice))\n  • Halle Berry (Cappy (voice))\n  • Greg Kinnear (Ratchet (voice))\n  • Mel Brooks (Bigweld (voice))\n  • Drew Carey (Crank (voice))",
+    "DIRECTOR": "Chris Wedge",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://hugh.cdn.rumble.cloud/video/fwe2/ff/s8/2/W/S/x/s/WSxsA.aaa.mp4"
+    ],
+    "METODO": "BUDTV"
   }
 ]
