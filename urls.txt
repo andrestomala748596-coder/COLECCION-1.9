@@ -28200,5 +28200,115 @@
       "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVLAT2025/Ver%20Kayara1080L4T%20mp4.mp4"
     ],
     "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 9732,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "El rey león II: El reino de Simba",
+    "FECHA": "1998-10-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/gPl01T2aKbAWQynn6AvZPDOYETk.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/vyOFlV1afDHb9MMwJVyON4qXbvC.jpg",
+    "GENERO": "Aventura, Animación, Drama, Familia, Romance",
+    "RATING": 6.9,
+    "DURACION": 81,
+    "FRASE_PROMOCIONAL": "La leyenda continúa.",
+    "SINOPSIS": "Kiara, la primogénita de Simba y heredera de sus dominios, escapa de sus protectores y, buscando aventuras, se adentra en sombríos territorios que están fuera de los límites del reino de su padre. En su camino conoce a Kovu, un joven cachorro: alcanzar la paz entre los habitantes de las tierras oscuras y los del territorio de Simba dependerá de ellos dos.",
+    "ACTORES": "  • Matthew Broderick (Simba (voice))\n  • Neve Campbell (Kiara (voice))\n  • Jason Marsden (Kovu (voice))\n  • Nathan Lane (Timon (voice))\n  • Ernie Sabella (Pumbaa (voice))",
+    "DIRECTOR": "Darrell Rooney",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/el-rey-leon-2-reino-zJTZbDV04k4sksT1"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 11430,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "El rey león 1½",
+    "FECHA": "2004-10-28",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/x2SAEOXURbKDgKfdHdZ49VhPGrB.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/3eQnD9CIUerbXbgtFE1zJNvEVVo.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia",
+    "RATING": 6.59,
+    "DURACION": 77,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Timón la suricata y Pumbaa el jabalí cuentan la historia de «El rey león» desde su propia perspectiva.",
+    "ACTORES": "  • Nathan Lane (Timon (voice))\n  • Ernie Sabella (Pumbaa (voice))\n  • Julie Kavner (Mom (voice))\n  • Jerry Stiller (Uncle Max (voice))\n  • Matthew Broderick (Simba (voice))",
+    "DIRECTOR": "Bradley Raymond",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/el-rey-leon-3-hakuna-omFBXwcuYYKUu1eO"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 417859,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Gato con Botas",
+    "FECHA": "2011-10-27",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/c5MCkebYhFuhmi32x760HfcvLIO.jpg",
+    "GENERO": "Acción, Aventura, Animación, Comedia, Familia",
+    "RATING": 6.6,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "Vivir para el peligro. Pelear por la justicia. Pedir por piedad.",
+    "SINOPSIS": "\"Gato con botas\" se sitúa en el tiempo como la precuela de Shrek 2. Mucho tiempo antes de conocer a Shrek, el Gato con Botas emprendió un viaje aliándose con el ingenioso Humpty Dumpty y con la avispada Kitty Softpaws para robar el famoso ganso de los huevos de oro.",
+    "ACTORES": "  • Antonio Banderas (Puss in Boots (voice))\n  • Salma Hayek Pinault (Kitty Softpaws (voice))\n  • Zach Galifianakis (Humpty Alexander Dumpty (voice))\n  • Billy Bob Thornton (Jack (voice))\n  • Amy Sedaris (Jill (voice))",
+    "DIRECTOR": "Chris Miller",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/el-gato-con-botas-latino-NaScDbrKkVaf5b5z"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 81188,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "El Origen De Los Guardianes",
+    "FECHA": "2012-11-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/deTVL9lgx1yegoN4JXSdRcrVr6m.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/46IGtYNjpIvQYRIQlb2X493Wh8x.jpg",
+    "GENERO": "Acción, Aventura, Animación, Familia, Fantasía",
+    "RATING": 7.4,
+    "DURACION": 97,
+    "FRASE_PROMOCIONAL": "Sera mejor que creas...",
+    "SINOPSIS": "'El origen de los guardianes' es una aventura épica y mágica que cuenta la historia de Santa Claus, el Conejo de Pascua, el Hada de los Dientes y Jack Frost - personajes legendarios con desconocidas habilidades extraordinarias. Cuando un espíritu maligno, conocido como Sombra, decide inundar de miedo los corazones de los niños, los Guardianes inmortales unen sus fuerzas para proteger los deseos, las creencias y la imaginación de los niños.",
+    "ACTORES": "  • Chris Pine (Jack Frost (voice))\n  • Alec Baldwin (North (voice))\n  • Jude Law (Pitch (voice))\n  • Isla Fisher (Tooth (voice))\n  • Hugh Jackman (Bunny (voice))",
+    "DIRECTOR": "Peter Ramsey",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://nvmevod.btv.mx/132T/NANEGOBACK/MOVDUAL/19/rise_of_the_guardians_2012.mkv"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "DISNEY_PIXAR",
+    "TMDB_ID": 20760,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "videa.hu",
+    "TITULO": "Lilo y Stitch 2: Stitch en cortocircuito",
+    "FECHA": "2005-08-22",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/l71VXcph19ZwJr2ZtEFuZA6ZzK5.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/5blbwmFZekM3ffqxDoveupJck5C.jpg",
+    "GENERO": "Animación, Familia, Comedia, Ciencia ficción",
+    "RATING": 6.7,
+    "DURACION": 68,
+    "FRASE_PROMOCIONAL": "¡Hawái, tenemos un problema!",
+    "SINOPSIS": "Lilo quiere seguir los pasos de su madre y presentarse a un concurso de baile hawaiano. Por su parte, Stitch se porta cada vez mejor haciendo que su “nivel de bondad” sea cada vez más alto. La vida en Hawai parece ir a las mil maravillas… hasta que Stitch sufre un “fallo técnico” y todo empieza a desbaratarse. Lilo, Nani, David y Jumba van a necesitar todo el “Ohana” del mundo para salvar a su pequeño amigo.",
+    "ACTORES": "  • Chris Sanders (Stitch (voice))\n  • Dakota Fanning (Lilo Pelekai (voice))\n  • Tia Carrere (Nani (voice))\n  • David Ogden Stiers (Dr. Jumba Jookiba (voice))\n  • Kevin McDonald (Pleakley (voice))",
+    "DIRECTOR": "Tony Leondis",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://videa.hu/videok/film-animacio/lilo-stitch-2-latino-.v-244JjS0yQjclafE9"
+    ],
+    "METODO": "MANUAL"
   }
 ]
