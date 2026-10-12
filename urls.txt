@@ -28068,5 +28068,27 @@
       "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Coyote%20vs.%20Acme%20(2026)LAT%20(1).mkv"
     ],
     "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1732625,
+    "ID_VIDEO": null,
+    "PLATAFORMA": null,
+    "TITULO": "LEGO Disney Princesa: Caos mágico",
+    "FECHA": "2026-08-21",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/21SCsrJ2dd6tnYHMjOFZLt2E4Nl.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/kBrBcgdite6vpa6VkYEcjZuof7z.jpg",
+    "GENERO": "Animación, Fantasía, Comedia, Aventura, Familia",
+    "RATING": 6.6,
+    "DURACION": 22,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Durante una fuerte tormenta, las princesas y sus amigos acogen a animales necesitados mientras disfrutan de un día acogedor en su castillo. Pero cuando los animales se vuelven locos, se desata el caos. Tras investigar un poco, descubren que detrás se esconde un villano y, gracias al trabajo en equipo, a su ingenio y a la ayuda de un amigo inesperado, deben restablecer el orden y salvar su hogar.",
+    "ACTORES": "  • Jodi Benson (Ariel (voice))\n  • Auliʻi Cravalho (Moana (voice))\n  • Mandy Moore (Rapunzel (voice))\n  • Katherine Von Till (Snow White (voice))\n  • Ming-Na Wen (Mulan (voice))",
+    "DIRECTOR": "Randi Rodrigues",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://files.eintim.me/content/cdn/FByLrvUkACPU.mp4"
+    ],
+    "METODO": "BUDTV"
   }
 ]
