@@ -28090,5 +28090,71 @@
       "https://files.eintim.me/content/cdn/FByLrvUkACPU.mp4"
     ],
     "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1297842,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "tokyvideo.com",
+    "TITULO": "GOAT: La cabra que cambió el juego",
+    "FECHA": "2026-02-11",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/3dH7p6eAfzDElYYFKfYWpf9xlsG.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+    "GENERO": "Animación, Comedia, Familia",
+    "RATING": 8.0,
+    "DURACION": 100,
+    "FRASE_PROMOCIONAL": "Nunca eres demasiado pequeño para soñar en grande.",
+    "SINOPSIS": "Will, un pequeño cabrito con grandes sueños, tiene la oportunidad única de unirse a los profesionales y jugar al roarball, un deporte de contacto intenso y mixto, dominado por los animales más rápidos y feroces del mundo. A sus nuevos compañeros no les entusiasma tener un pequeño cabrito en su equipo, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que los pequeños también pueden jugar al béisbol.",
+    "ACTORES": "  • Caleb McLaughlin (Will Harris (voice))\n  • Gabrielle Union (Jett Fillmore (voice))\n  • Stephen Curry (Lenny Williamson (voice))\n  • Aaron Pierre (Mane Attraction (voice))\n  • Nicola Coughlan (Olivia Burke (voice))",
+    "DIRECTOR": "Tyree Dillihay",
+    "TRAILER": "https://youtube.com/watch?v=2I6sfNgZ0dU",
+    "URLS": [
+      "https://www.tokyvideo.com/es/video/la-cabra-que-cambio-el-juego-goat"
+    ],
+    "METODO": "MANUAL"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1740877,
+    "ID_VIDEO": null,
+    "PLATAFORMA": null,
+    "TITULO": "Sesame Street: Tormenta en Plaza Sésamo",
+    "FECHA": "2026-08-03",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/oMAuDxxMPxzHjUmbrCR9EvJyH8U.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/ewuZpFd7zoB8xCtwlRGUU3E599s.jpg",
+    "GENERO": "Familia, Animación",
+    "RATING": 6.8,
+    "DURACION": 30,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Un huracán pasa por Sesame Street, ¡y Big Bird se queda sin nido! Pero sus amigos se unen para animarlo y ayudarlo a reconstruir su hogar.",
+    "ACTORES": "  • Chris Knowings ()\n  • Suki Lopez (Nina)\n  • Alan Muraoka ()\n  • Michelle Buteau (Sammy Squalls)\n  • Post Malone ()",
+    "DIRECTOR": "Scott Preston",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://files.eintim.me/content/cdn/EZwxTpFjhdLB.mp4"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1318621,
+    "ID_VIDEO": null,
+    "PLATAFORMA": null,
+    "TITULO": "Descendientes: Un malvado País de las Maravillas",
+    "FECHA": "2026-07-16",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/5lpbVRg99l3VkYyXOiZraNgNlXv.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
+    "GENERO": "Fantasía, Película de TV, Familia, Aventura",
+    "RATING": 7.5,
+    "DURACION": 95,
+    "FRASE_PROMOCIONAL": "",
+    "SINOPSIS": "Tras cambiar la historia y evitar que la Reina de Corazones se vuelva malvada, además de salvar a Cenicienta, todo parece perfecto para Red y Chloe. Pero alterar el pasado tiene consecuencias inesperadas. Cuando Maddox Sombrerero, un antiguo amigo de Red, surge como un nuevo villano y captura a la Reina, Red y Chloe deben volver por la madriguera del conejo. Allí, se unen a Pink, la hermana de Red; Luis, el hijo de Luisa Madrigal, y un equipo de villanos liderado por Max, el hijo de Maddox, para salvar a la Reina y a todo el País de las Maravillas.",
+    "ACTORES": "  • Kylie Cantrall (Red)\n  • Malia Baker (Chloe)\n  • Liamani Segura (Pink)\n  • Rita Ora (Queen of Hearts)\n  • Brandy Norwood (Cinderella)",
+    "DIRECTOR": "Kimmy Gatewood",
+    "TRAILER": "https://youtube.com/watch?v=FI_6BNlG1IE",
+    "URLS": [
+      "https://files.eintim.me/content/cdn/iZIMXQbMtqgf.mp4"
+    ],
+    "METODO": "BUDTV"
   }
 ]
