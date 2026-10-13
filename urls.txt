@@ -28464,5 +28464,49 @@
       "https://hugh.cdn.rumble.cloud/video/fwe2/ff/s8/2/W/S/x/s/WSxsA.aaa.mp4"
     ],
     "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1084244,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Toy Story 5",
+    "FECHA": "2026-06-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+    "GENERO": "Animación, Familia, Comedia, Aventura",
+    "RATING": 8.286,
+    "DURACION": 102,
+    "FRASE_PROMOCIONAL": "Se activó.",
+    "SINOPSIS": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+    "ACTORES": "  • Joan Cusack (Jessie (voice))\n  • Tom Hanks (Woody (voice))\n  • Tim Allen (Buzz Lightyear (voice))\n  • Conan O'Brien (Smarty Pants (voice))\n  • Scarlett Spears (Bonnie (voice))",
+    "DIRECTOR": "Andrew Stanton",
+    "TRAILER": "https://youtube.com/watch?v=DW8GC9SQ9Xw",
+    "URLS": [
+      "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Toy%20Story%205%20(2026)lat%20(1).mkv"
+    ],
+    "METODO": "BUDTV"
+  },
+  {
+    "CATEGORIA": "2026",
+    "TMDB_ID": 1315772,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "BUDTV Direct",
+    "TITULO": "Minions & Monstruos",
+    "FECHA": "2026-06-24",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/uNtBRRLNsCiCcqccv3CMWPx5Xz.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "GENERO": "Aventura, Animación, Comedia, Familia, Fantasía",
+    "RATING": 7.559,
+    "DURACION": 90,
+    "FRASE_PROMOCIONAL": "Hollywood tiene un problema monstruoso.",
+    "SINOPSIS": "Esta es la historia alocada, ridícula y totalmente verídica de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+    "ACTORES": "  • Pierre Coffin (The Minions (voice))\n  • Trey Parker (Goomi (voice))\n  • Christoph Waltz (Max (voice))\n  • Allison Janney (Olivia (voice))\n  • Jesse Eisenberg (Dort (voice))",
+    "DIRECTOR": "Pierre Coffin",
+    "TRAILER": "https://youtube.com/watch?v=4Wm2P-4Ilvc",
+    "URLS": [
+      "https://69t.btv.mx/69T/NENA/MOV/3TRIOS/Minions%20&%20monstruos%20(2026)%20LAT%20(1).mkv"
+    ],
+    "METODO": "BUDTV"
   }
 ]
